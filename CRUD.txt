@@ -1,0 +1,5 @@
+En esta crud puedo realizar una lista desde cero, 
+asi mismo puedo editar algun elemneto de la lista y 
+darle al checkbox el cual bloqea el elmento para que 
+no pueda ser editado ni borrado. Se adjuntan capturas 
+del funcionamiento.
